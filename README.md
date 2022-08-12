@@ -1,6 +1,15 @@
-# Programación 1
+# CI-0112 Programación 1
 
-Este curso fomenta en el estudiante habilidades generales para la resolución de problemas de programación, con énfasis en la etapa de implementación de soluciones. Se usa el paradigma de programación orientado a objetos porque permite solucionar problemas de forma más natural.
+Curso de [Programación 1](https://www.ecci.ucr.ac.cr/cursos/ci-0112) de la [Universidad de Costa Rica](https://www.ucr.ac.cr/), [Escuela de Ciencias de la Computación e Informática](https://www.ecci.ucr.ac.cr/).
+
+**Docente:** Sivana Hamer
+
+**Grupo y semestre:**  Grupo 8, II ciclo 2022
+
+**Descripción:** Este curso fomenta en el estudiante habilidades generales para la resolución de problemas de programación, con énfasis en la etapa de implementación de soluciones. Se usa el paradigma de programación orientado a objetos porque permite solucionar problemas de forma más natural.
+
+> [!NOTE]
+> El entorno virtual del sitio se encuentra en [Mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/course/view.php?id=27560) donde se encuentran otros materiales y asignaciones del curso.
 
 ## Licencia
 
