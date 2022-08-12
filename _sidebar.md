@@ -1,6 +1,5 @@
 
 * [Programación 1](/)
-* [Cronograma](cronograma.md)
 * [Introducción a la programación](01-Introducción/README.md)
 * [Variables y operadores](02-Variables_operadores/README.md)
 * [Entrada y sálida](03-Entrada_salida/README.md)
