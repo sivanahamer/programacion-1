@@ -9,15 +9,24 @@ Para muchas personas, este es el primer curso en donde van a programar. Nosotros
 
 **Presentaciones:**
 
-- [Consejos e información importante](./pres/00-Tips.pdf)
-- [Introducción a la programación](./pres/01-Intro.pdf)
-- [Resolución de problemas](./pres/02-Res.pdf)
+- [Consejos e información importante](01-Introducción/pres/00-Tips.pdf)
+- [Introducción a la programación](01-Introducción/pres/01-Intro.pdf)
+- [Resolución de problemas](01-Introducción/pres/02-Res.pdf)
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768906).
 
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.
+
+## Videos
+
+- [How to setup Github ssh key for private repositories](https://www.youtube.com/watch?v=JuQhNFYMFcE)
+- [Como Trabajar con Git, Github en Visual Studio Code](https://www.youtube.com/watch?v=qdec2M4NwT0)
+- [How to Set Up Java Development in Visual Studio Code on Windows | vsCode Java Development Basics](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
+- [Introduction to Git - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
+- [Introduction to Git - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI&t=4s)
+- [Introduction to Git - Remotes](https://www.youtube.com/watch?v=Gg4bLk8cGNo&t=3s)
 
 ### Lecturas
 
