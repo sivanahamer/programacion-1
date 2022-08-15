@@ -9,9 +9,9 @@ Para muchas personas, este es el primer curso en donde van a programar. Nosotros
 
 **Presentaciones:**
 
-- [Consejos e información importante](01-Introducción/pres/00-Tips.pdf)
-- [Introducción a la programación](01-Introducción/pres/01-Intro.pdf)
-- [Resolución de problemas](01-Introducción/pres/02-Res.pdf)
+- [Consejos e información importante](./01-Introducción/pres/00-Tips.pdf)
+- [Introducción a la programación](./01-Introducción/pres/01-Intro.pdf)
+- [Resolución de problemas](./01-Introducción/pres/02-Res.pdf)
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768906).
 

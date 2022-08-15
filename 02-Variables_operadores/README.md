@@ -23,8 +23,8 @@ Por medio de variables, podemos utilizarlas para realizar distintas operaciones 
 
 **Presentaciones:**
 
-- [Variables y tipos de datos](02-Variables_operadores/pres/03-Var.pdf)
-- [Operadores](02-Variables_operadores/pres/04-Op.pdf)
+- [Variables y tipos de datos](./02-Variables_operadores/pres/03-Var.pdf)
+- [Operadores](./02-Variables_operadores/pres/04-Op.pdf)
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
 
