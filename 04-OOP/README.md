@@ -2,8 +2,8 @@
 
 **Presentaciones:**
 
-- [Métodos](./04-OOP/pres/06-Methods.pdf)
-- [Programación orientada a objetos](./04-OOP/pres/07-OOP.pdf)
+- [Métodos](https://github.com/sivanahamer/programacion-1/blob/main/04-OOP/pres/06-Methods.pdf)
+- [Programación orientada a objetos](https://github.com/sivanahamer/programacion-1/blob/main/04-OOP/pres/07-OOP.pdf)
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
 

@@ -2,9 +2,9 @@
 
 **Presentaciones:**
 
-- [Consejos e información importante](./01-Introducción/pres/00-Tips.pdf)
-- [Introducción a la programación](./01-Introducción/pres/01-Intro.pdf)
-- [Resolución de problemas](./01-Introducción/pres/02-Res.pdf)
+- [Consejos e información importante](https://github.com/sivanahamer/programacion-1/blob/main/01-Introducci%C3%B3n/pres/00-Tips.pdf)
+- [Introducción a la programación](https://github.com/sivanahamer/programacion-1/blob/main/01-Introducci%C3%B3n/pres/01-Intro.pdf)
+- [Resolución de problemas](https://github.com/sivanahamer/programacion-1/blob/main/01-Introducci%C3%B3n/pres/02-Res.pdf)
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768906).
 

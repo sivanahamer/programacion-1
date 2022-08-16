@@ -2,7 +2,7 @@
 
 **Presentaciones:**
 
-- [Entrada y salida](./03-Entrada_salida/pres/05-IO.pdf)
+- [Entrada y salida](https://github.com/sivanahamer/programacion-1/blob/main/03-Entrada_salida/pres/05-IO.pdf)
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
 

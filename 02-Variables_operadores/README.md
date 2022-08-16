@@ -2,8 +2,8 @@
 
 **Presentaciones:**
 
-- [Variables y tipos de datos](./02-Variables_operadores/pres/03-Var.pdf)
-- [Operadores](./02-Variables_operadores/pres/04-Op.pdf)
+- [Variables y tipos de datos](https://github.com/sivanahamer/programacion-1/blob/main/02-Variables_operadores/pres/03-Var.pdf)
+- [Operadores](https://github.com/sivanahamer/programacion-1/blob/main/02-Variables_operadores/pres/04-Op.pdf)
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
 
