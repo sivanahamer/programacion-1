@@ -1,5 +1,12 @@
 # Variables y operadores
 
+**Presentaciones:**
+
+- [Variables y tipos de datos](./02-Variables_operadores/pres/03-Var.pdf)
+- [Operadores](./02-Variables_operadores/pres/04-Op.pdf)
+
+**Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
+
 Para programar, ocupamos guardar toda la información que vamos a utilizar en algún lado llamado una **variable**. Por ejemplo, podemos tener una variable que guarde la cantidad de pedazos de una pizza que hemos comido llamada `tajadasComidas`.
 
 En lenguajes de programación existen distintas convenciones con respecto a variables.
@@ -20,13 +27,6 @@ Por medio de variables, podemos utilizarlas para realizar distintas operaciones 
 
 > [!ATTENTION]
 > Para iniciar a practicar este tema debe haber terminado de realizar la configuración del laboratorio 1. Todos los temas de aquí en adelante son acumulativos y requiere de que comprendan los temas anteriores. Ante cualquier duda, lo mejor es evacuar lo que no entienden lo antes posible 😁.
-
-**Presentaciones:**
-
-- [Variables y tipos de datos](./02-Variables_operadores/pres/03-Var.pdf)
-- [Operadores](./02-Variables_operadores/pres/04-Op.pdf)
-
-**Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
 
 ## Ejercicios
 
