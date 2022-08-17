@@ -7,6 +7,9 @@
 
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
 
+> [!ATTENTION]
+> Para iniciar a practicar este tema debe haber terminado de realizar la configuración del laboratorio 1. Todos los temas de aquí en adelante son acumulativos y requiere de que comprendan los temas anteriores. Ante cualquier duda, lo mejor es evacuar lo que no entienden lo antes posible 😁.
+
 Para programar, ocupamos guardar toda la información que vamos a utilizar en algún lado llamado una **variable**. Por ejemplo, podemos tener una variable que guarde la cantidad de pedazos de una pizza que hemos comido llamada `tajadasComidas`.
 
 En lenguajes de programación existen distintas convenciones con respecto a variables.
@@ -21,12 +24,74 @@ En lenguajes de programación existen distintas convenciones con respecto a vari
 > Es importante seguir las convenciones de nombres ya que son **buenas prácticas de programación** que ayudan con la **legibilidad** de los programas.
 
 Las variables guardan distintos datos dependiendo su **tipo de datos**. Por ejemplo, en `tajadasComidas` el tipo de dato es un **entero** asumiendo que solo estamos comiendo toda una tajada de pizza o ninguna. Aunque, también podríamos decir que es un **flotante** si alguien come tres tajadas y media (3.5). Decidir el tipo de representación depende del problema que estamos resolviendo y lo que ocupamos guardar.
-Otros tipos de datos relevantes son **boleanos** que guarda `True` o `False`. Se puede utilizar para representar si alguien comió o no tajadas con una variable de `comioTajadas`. Otro tipo de dato son **caracteres o strings (cadenas de caracteres)** que guardan información textual. Un ejemplo sería guardar en una variable string el `tipoPizza` que podría ser `"peperoni"`, `"margarita"`, o `"hawaiana"`.
+Otros tipos de datos relevantes son **boleanos** que guarda `True` o `False`. Se puede utilizar para representar si alguien comió o no tajadas con una variable de `comioTajadas`. Otro tipo de dato son **caracteres o strings (cadenas de caracteres)** que guardan información textual. Un ejemplo sería guardar en una variable string el `tipoPizza` que podría ser `"pepperoni"`, `"margarita"`, o `"hawaiana"`.
 
-Por medio de variables, podemos utilizarlas para realizar distintas operaciones por medio de **operadores**. Por ejemplo, podríamos sumar una tajada más en `tajadasComidas` para representar que alguien comió una tajada más. Existen otros operadores aparte de los aritméticos como los relacionales, de asignación y lógicos.
+El **valor** de una variable es lo que guarda la variable. Por ejemplo, `tajadasComidas` puede guardar un valor de `3` para representar que se consumió tres tajadas de pizza. Este valor se asigna y modifica durante la ejecución de un programa.
 
-> [!ATTENTION]
-> Para iniciar a practicar este tema debe haber terminado de realizar la configuración del laboratorio 1. Todos los temas de aquí en adelante son acumulativos y requiere de que comprendan los temas anteriores. Ante cualquier duda, lo mejor es evacuar lo que no entienden lo antes posible 😁.
+Podemos **inicializar** la variable `tajadasComidas` con un tipo de datos entero y un valor inicial de $3$ de la siguiente manera.
+
+```java
+int tajadasComidas = 3;
+```
+
+> [!NOTE]
+> En Java, siempre que escribimos una línea de código debe terminar con `;`.
+
+Si queremos crear una variable sin asignar un valor, estaríamos **declarandola**. Esto se puede hacer de la siguiente manera.
+
+```java
+int tajadasComidas;
+```
+
+En cambio si ya existe una variable, podemos modificar el valor que tiene al **asignar** un nuevo valor. Por ejemplo, podemos asignar un nuevo valor de $4$ en la variable de tajadasComidas.
+
+```java
+tajadasComidas = 4;
+```
+
+Por medio de variables, podemos utilizarlas para realizar distintas operaciones con **operadores**. Por ejemplo con operadores, podríamos sumar uno  en `tajadasComidas` para representar que alguien comió una tajada más.
+
+```java
+tajadasComidas += 1;
+```
+
+Se puede representar lo mismo con el operador `++`.
+
+```java
+tajadasComidas++;
+```
+
+Los tipos de operadores son:
+
+- **Aritméticos:** Realizan operaciones matemáticas.
+
+```java
+tajadasComidas = 2 * 1 + 3;
+```
+
+- **Relacionales:** Comparan la relación entre dos valores.
+
+```java
+//Se compara que hay mayor o igual de cuatro tajadas
+//Devuelve un true si es mayor o igual a 4 y false en el caso contrario
+tajadasComidas >= 4;
+```
+
+- **Lógicos:** Realizan operaciones booleanas.
+
+```java
+//Se revisa si se come entre menos de 10 tajadas y mayor o igual a 4 tajadas
+(tajadasComidas < 10) && (tajadasComidas >= 4)
+```
+
+- **Asignación:** Guarda un valor dentro de una variable.
+
+```java
+tajadasComidas = 5;
+```
+
+> [!NOTE]
+> Todos los ejemplos que utiliza el operador `=` de asignación realizan esta operación.
 
 ## Ejercicios
 
