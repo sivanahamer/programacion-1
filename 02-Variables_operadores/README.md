@@ -97,11 +97,16 @@ tajadasComidas = 5;
 
 ### Velocidad 💨
 
-- **Requerimientos:**
+#### Requerimientos
 
-Velocidad es igual a distancia entre tiempo
+Se tienen que responder preguntas como:
 
-- **Diseño:**
+¿Cómo se calcula la velocidad?
+> Respuesta: Velocidad es igual a distancia entre tiempo
+- ¿En qué medidas está la distancia y tiempo?
+> Respuesta: Distancias en metros y tiempo en segundos
+
+#### Diseño
 
 Se hace un diseño en pseudocódigo de los pasos del problema.
 
@@ -111,11 +116,22 @@ calcular la velocidad
 imprimir resultado
 ```
 
-- **Implementación:**
+[velocidadMain](src/Velocidad.java ':include :type=code')
 
 
-- **Prueba:**
+#### Implementación
 
+#### Pruebas
+
+Se prueba introducir valores de:
+
+- $d=12$, $t=2$ con resultado $v=6$.
+- $d=8$, $t=3$ con resultado $v=2.667$.
+- $d=10$, $t=2$ con resultado $v=2.5$.
+- $d=12$, $t=0$ da un error de ejecución.
+
+> [!NOTE]
+> Para arreglar este error, ocupamos utilizar condicionales o excepciones que veremos mas adelante.
 
 ## Material suplemental
 
