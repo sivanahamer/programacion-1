@@ -118,9 +118,9 @@ imprimir resultado
 
 #### Implementación
 
-[velocidadMain](02-Variables_operadores\src\velocidad\Main.java ':include :type=code text')
+[velocidadMain](02-Variables_operadores/src/velocidad/Main.java ':include :type=code text')
 
-[velocidad](02-Variables_operadores\src\velocidad\Velocidad.java ':include :type=code text')
+[velocidad](02-Variables_operadores/src/velocidad/Velocidad.java ':include :type=code text')
 
 #### Pruebas
 
