@@ -116,10 +116,11 @@ calcular la velocidad
 imprimir resultado
 ```
 
-[velocidadMain](https://github.com/sivanahamer/programacion-1/blob/main/02-Variables_operadores/src/velocidad/Velocidad.java ':include :type=code text')
-
-
 #### Implementación
+
+[velocidadMain](02-Variables_operadores\src\velocidad\Main.java ':include :type=code text')
+
+[velocidad](02-Variables_operadores\src\velocidad\Velocidad.java ':include :type=code text')
 
 #### Pruebas
 
