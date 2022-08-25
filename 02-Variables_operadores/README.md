@@ -95,7 +95,27 @@ tajadasComidas = 5;
 
 ## Ejercicios
 
-Pendiente
+### Velocidad 💨
+
+- **Requerimientos:**
+
+Velocidad es igual a distancia entre tiempo
+
+- **Diseño:**
+
+Se hace un diseño en pseudocódigo de los pasos del problema.
+
+```pseudocode
+obtener la distancia y el tiempo
+calcular la velocidad
+imprimir resultado
+```
+
+- **Implementación:**
+
+
+- **Prueba:**
+
 
 ## Material suplemental
 
