@@ -118,9 +118,9 @@ imprimir resultado
 
 #### Implementación
 
-[velocidadMain](02-Variables_operadores/src/velocidad/Main.java ':include :type=code text')
+[velocidadMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/velocidad/Main.java ':include :type=code text')
 
-[velocidad](02-Variables_operadores/src/velocidad/Velocidad.java ':include :type=code text')
+[velocidad](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/velocidad/Velocidad.java ':include :type=code text')
 
 #### Pruebas
 
