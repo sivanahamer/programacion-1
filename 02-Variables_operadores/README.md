@@ -99,9 +99,7 @@ tajadasComidas = 5;
 
 #### Requerimientos
 
-Se tienen que responder preguntas como:
-
-¿Cómo se calcula la velocidad?
+- ¿Cómo se calcula la velocidad?
 > Respuesta: Velocidad es igual a distancia entre tiempo
 - ¿En qué medidas está la distancia y tiempo?
 > Respuesta: Distancias en metros y tiempo en segundos
@@ -133,6 +131,74 @@ Se prueba introducir valores de:
 
 > [!NOTE]
 > Para arreglar este error, ocupamos utilizar condicionales o excepciones que veremos mas adelante.
+
+### Teorema de Pitágoras 🔼
+
+#### Requerimientos
+
+- ¿Qué es el teorema de pitágoras?
+- ¿Cómo se calcula?
+
+#### Diseño
+
+```pseudocode
+pedir los lados (a y b)
+aplicar la formula de calcular la hipotenusa
+presentar el resultado
+```
+
+#### Implementación
+
+[pitagoras](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/pitagoras/Main.java ':include :type=code text')
+
+#### Pruebas
+
+Se prueba el caso de $a=3$, $b=4$ y $c=5$.
+
+### Transporte 🚗
+
+#### Requerimientos
+
+- ¿Qué vehiculos estamos considerando?
+- ¿Cómo clasificamos los vehiculos?
+- ¿Qué es lo que quiere que imprimá?
+
+#### Diseño
+
+```pseudocode
+Pedimos la cantidad de ruedas del vehiculo
+Determinar si la cantidad dada es igual a la cantidad del vehiculo
+- Si la cantidad es 0, es verdadero que es carrito chocon
+- Si la cantidad es 1, es verdadero que es  monociclo
+- Si la cantidad es 2, es verdadero que es  bicicleta
+- Si la cantidad es 3, es verdadero que es  triciclo
+- Si la cantidad es 4, es verdadero que es  automovil
+- Si la cantidad es 5+, es verdadero que es tractor
+```
+
+#### Implementación
+
+[transporte](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/transporte/Main.java ':include :type=code text')
+
+### Mamiferos 🐻🐬🐖
+
+#### Requerimientos
+
+- ¿Qué es un mamifero?
+- ¿Cuáles son sus caracteristicas?
+- ¿Cómo se determina que algo es un mamifero o no lo es?
+
+#### Diseño
+
+```pseudocode
+Pedir el nombre del animal
+Preguntamos si o no de las caracteristicas
+Determinamos si es un mamifero o no (algo abstracto)
+```
+
+#### Implementación
+
+[mamiferos](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/mamiferos/Main.java ':include :type=code text')
 
 ## Material suplemental
 
