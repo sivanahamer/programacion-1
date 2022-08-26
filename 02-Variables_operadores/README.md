@@ -200,6 +200,12 @@ Determinamos si es un mamifero o no (algo abstracto)
 
 [mamiferos](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/mamiferos/Main.java ':include :type=code text')
 
+### Tiempo ⌚
+
+[tiempo](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/tiempo/Tiempo.java ':include :type=code text')
+
+[tiempoMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/02-Variables_operadores/src/tiempo/TiempoMain.java ':include :type=code text')
+
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.

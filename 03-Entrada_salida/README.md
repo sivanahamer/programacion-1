@@ -7,12 +7,14 @@
 **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
 
 Generalmente, los programas que se desarrollan tienen alguna interacción con un humano (*user*) o entre otras máquinas. Para ello, ocupa que un programa pueda **recibir** datos que le comunican y **dar** datos de respuestas. Por lo tanto, uno recibe información de **entrada** (*input* o I) y da información de **sálida** (*output* u O). Por ejemplo, en una aplicación de pizza se puede recibir información de una orden, mientras que se puede desplegar una imagen de cómo se va a ver la pizza o enviar una factura de la compra.
- 
+
 Se puede **trasmitir** (recibir y dar) datos por distintos medios. Por ejemplo, uno puede recibir algo de entrada estándar dado por una persona usuaria como en el caso de nuestros programas actuales que utilizan el teclado para recibir información. Además, se podría recibir un archivo que se puede procesar. Por ejemplo, si tenemos un supermercado que procesa todas las compras que recibe por medio de archivos. Muchos programas utilizan **interfaces gráficas** para dar información como en Java que se puede utilizar JOptionPane. Un ejemplo de una interfaz podría ser una aplicación web para la compra de Pizza e incluso una aplicación móvil como lo es Uber Eats. Si estamos representando una pizza para efectos de un juego, como [Overcooked](https://www.team17.com/games/overcooked/), esto igualmente tendría una interfaz aunque seria mas grafica. Incluso, tanto el teclado, mouse, controlador o pantalla es una manera en que se le puede recibir datos de una persona usuaria. Aun así, existen muchas otras maneras de recibir datos.
 
 ## Ejercicios
 
-Pendiente
+### Echo 🗣️
+
+[echo](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/03-Entrada_salida/src/echo/Main.java ':include :type=code text')
 
 ## Material suplemental
 
