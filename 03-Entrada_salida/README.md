@@ -16,6 +16,14 @@ Se puede **trasmitir** (recibir y dar) datos por distintos medios. Por ejemplo, 
 
 [echo](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/03-Entrada_salida/src/echo/Main.java ':include :type=code text')
 
+### Copia 🐖🐖
+
+[copy](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/03-Entrada_salida/src/copy/Main.java ':include :type=code text')
+
+### Average ➗
+
+[average](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/03-Entrada_salida/src/average_csv/Main.java ':include :type=code text')
+
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.

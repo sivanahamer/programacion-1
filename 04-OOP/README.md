@@ -229,7 +229,11 @@ Como se puede ver, se puede entonces utilizar clases con otras clases para model
 
 ## Ejercicios
 
-Pendiente
+### Circle ⭕
+
+[circle](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/circle/Circle.java ':include :type=code text')
+
+[circleMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/circle/Main.java ':include :type=code text')
 
 ## Material suplemental
 
