@@ -251,7 +251,7 @@ Como se puede ver, se puede entonces utilizar clases con otras clases para model
 
 [enlaces](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/enlaces/AgregadorEnlaces.java ':include :type=code text')
 
-[enlacesMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/enlaces/Main.java ':include :type=code text')
+[enlacesMain](https://github.com/sivanahamer/programacion-1/blob/main/04-OOP/src/enlaces/Main.java ':include :type=code text')
 
 ### Point 🔴
 
@@ -261,7 +261,7 @@ Como se puede ver, se puede entonces utilizar clases con otras clases para model
 
 [rectanglePoint](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/RectanglePoint.java ':include :type=code text')
 
-[rectanglePointMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/point/Main.java ':include :type=code text')
+[rectanglePointMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/Main.java ':include :type=code text')
 
 ## Material suplemental
 
