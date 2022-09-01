@@ -235,6 +235,34 @@ Como se puede ver, se puede entonces utilizar clases con otras clases para model
 
 [circleMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/circle/Main.java ':include :type=code text')
 
+### Rectangle 🟥
+
+[rectangle](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/rectangle/Rectangle.java ':include :type=code text')
+
+[rectangleMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/rectangle/Main.java ':include :type=code text')
+
+### Dice 🎲
+
+[dice](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/dice/Dice.java ':include :type=code text')
+
+[diceMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/dice/Main.java ':include :type=code text')
+
+### AgregadorEnlaces 👆🏿
+
+[enlaces](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/enlaces/AgregadorEnlaces.java ':include :type=code text')
+
+[enlacesMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/enlaces/Main.java ':include :type=code text')
+
+### Point 🔴
+
+[point](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/Point.java ':include :type=code text')
+
+### RectanglePoint 🟥🔴
+
+[rectanglePoint](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/RectanglePoint.java ':include :type=code text')
+
+[rectanglePointMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/point/Main.java ':include :type=code text')
+
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.
