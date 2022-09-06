@@ -26,7 +26,7 @@ class Pizza { //Esto es la clase
 
 Dado que como en el caso anterior, podemos querer que no se siga el mismo flujo. Para ello, existen las instrucciones de **flujo de control**.
 
-### Condicionales
+## Condicionales
 
 Si queremos que se ejecute cierto código en ciertas condiciones, podemos crear una condición que determina si sucedió algo o no y ejecutar el código correspondiente. Esto se hace por medio de las instrucciones `if`, `else` y `switch`
 
@@ -234,7 +234,7 @@ class Pizza { //Esto es la clase 🍕
 }
 ```
 
-### Ciclos
+## Ciclos
 
 Si yo quisiera cocinar mi Pizza para que quede tostada, tendría que invocar dos veces el método `cocinar`. Vamos a asumir para el siguiente ejemplo que tenemos una instancia de la clase `Pizza` llamada `pizza`.
 

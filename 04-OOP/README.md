@@ -34,7 +34,7 @@ class Main{
 
 Cada objeto tiene tres componentes principales:
 
-### Atributos
+## Atributos
 
 Lo que **guarda** el objeto en variables. Son sustantivos. Por ejemplo, para nuestra clase Pizza podríamos tener de atributos un `topping`, `cantidadTajadas`, `estaCocinado`, y `tieneQuesoEnCorteza`.
 
@@ -63,7 +63,7 @@ Como se puede notar, la manera en que se crea un atributo es igual que cuando se
 
 Para atributos, es buena práctica poner los atributos privados para que no se pueda obtener o modificar datos que no se deberían. Por ejemplo, imagínese si un tercero modifica que mi Pizza ya no es de pepperoni es un problema de seguridad (además de arruinar el día de la persona por cambiarle la pizza :c). Si se ocupan acceder, se puede realizar por medio de un método *getter* o *setter* (usar ambos no es la mejor práctica ya que es lo mismo que hacerlo público).
 
-### Constructor
+## Constructor
 
 Esto **instancia** de la clase. Es decir, es el encargado de guardar y correr todo lo que se ocupa para que un objeto Pizza sea una Pizza.
 
@@ -96,7 +96,7 @@ class Pizza { //Esto es la clase 🍕
 - Siempre hay un constructor público para que se pueda crear un objeto.
 - Algunos lenguajes de programación dejan tener varios constructores con diferentes parámetros.
 
-### Métodos
+## Métodos
 
 Los métodos son **acciones que puede realizar** un objeto de una clase. Por ende, son verbos que por convencion se escriben en [infinitivo](https://espanol.lingolia.com/es/gramatica/verbos/infinitivo#:~:text=El%20infinitivo%20en%20espa%C3%B1ol%20tiene,que%20te%20presentamos%20a%20continuaci%C3%B3n.). Por ejemplo, para una pizza podemos pensar en la acción de `cocinar`, `setCantidadTajadas` o `getTopping`.
 
@@ -193,7 +193,7 @@ class Pizza { //Esto es la clase 🍕
 }
 ```
 
-### Interacción entre clases
+## Interacción entre clases
 
 El propósito del paradigma orientado a objetos es que exista cierta interacción entre muchas clases. Por ejemplo, imagínese si existe una clase llamada `Pizzeria` que maneja todo lo relacionado a una pizzería. Podría tener dentro de la clase Pizzeria un método llamado `ordenarPizza` que crea una pizza, se encarga de manipularla para consumición y la devuelve para entregar la orden.
 
