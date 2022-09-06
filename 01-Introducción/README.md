@@ -6,7 +6,7 @@
 - [Introducción a la programación](https://github.com/sivanahamer/programacion-1/blob/main/01-Introducci%C3%B3n/pres/01-Intro.pdf)
 - [Resolución de problemas](https://github.com/sivanahamer/programacion-1/blob/main/01-Introducci%C3%B3n/pres/02-Res.pdf)
 
-**Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768906).
+<!-- **Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768906). -->
 
 **Programar** es una de las habilidades más importantes que dominen dentro de la carrera (para los que son de computación) y para los de otras carreras una gran oportunidad de adquirir competencias buscadas en el mercado laboral. Este curso pretende que aprendan a programar utilizando un **paradigma orientado a objetos**, que es una de las maneras en que se solucionan problemas más utilizados hoy en día. Además no solo vamos a aprender a programar, si no a programar con **buenas prácticas** para realizar programas que no solo funcionan si no que tengan buena **calidad** (esto es un término que tiene muchas aristas en el campo).
 

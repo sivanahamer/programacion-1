@@ -5,8 +5,6 @@
 - [Métodos](https://github.com/sivanahamer/programacion-1/blob/main/04-OOP/pres/06-Methods.pdf)
 - [Programación orientada a objetos](https://github.com/sivanahamer/programacion-1/blob/main/04-OOP/pres/07-OOP.pdf)
 
-**Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
-
 En la vida real existen distintos **paradigmas** educativos, como lo es una clase magistral contra lo que es un aula invertida. Igualmente, al programar existen distintos paradigmas de computación, que son maneras de pensar cómo se puede resolver un problema. Particularmente, vamos a utilizar dentro de este curso el **paradigma orientado a objetos** (OOP o POO [en espanol]) donde todo lo que vamos a crear se van a llamar **clases**.
 
 En OOP existe un concepto que es sumamente importante, la diferencia entre una **clase** y un **objeto**. Una clase indica cómo se va a construir un objeto, mientras que un objeto es una instancia particular de una clase. La definición es media recursiva, pero aclaremoslo dentro de un ejemplo. Podríamos tener una clase llamada `Pizza` mientras que para esa clase Pizza se pueden tener varias instancias. Por ejemplo, podríamos tener una pizza margarita que comimos hace dos semanas y a la vez varias pizzas peperonis. Todas estas son parte de la misma clase, pero son distintos objetos. Podemos ver como se representa esto dentro del código.

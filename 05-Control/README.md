@@ -5,8 +5,6 @@
 - [Condicionales](https://github.com/sivanahamer/programacion-1/blob/main/05-Control/pres/08-Condicionales.pdf)
 - [Ciclos](https://github.com/sivanahamer/programacion-1/blob/main/05-Control/pres/09-Ciclos.pdf)
 
-**Asignación:** Pendiente.
-
 Nuestros programas anteriores siempre siguen el mismo flujo. Es decir, si se tiene el siguiente método de `cocinar`, todo lo que tiene el cuerpo de la función se va a ejecutar. En este caso sería `this.estaCocinado = true;`.
 
 ```java

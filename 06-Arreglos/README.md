@@ -4,8 +4,6 @@
 
 - [Arreglos](https://github.com/sivanahamer/programacion-1/blob/main/06-Arreglos/pres/10-Arrays.pdf)
 
-**Asignación:** Pendiente.
-
 ## Colecciones de datos
 
 En nuestras variables anteriores, siempre que queremos guardar algo teniamos que crear una variable para ello. Por ejemplo, dentro de nuestra clase `Pizza` tenemos un atributo que representa un `topping`.

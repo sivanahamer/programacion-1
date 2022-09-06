@@ -5,8 +5,6 @@
 - [Variables y tipos de datos](https://github.com/sivanahamer/programacion-1/blob/main/02-Variables_operadores/pres/03-Var.pdf)
 - [Operadores](https://github.com/sivanahamer/programacion-1/blob/main/02-Variables_operadores/pres/04-Op.pdf)
 
-**Asignación:** Ver en [mediación](https://mv1.mediacionvirtual.ucr.ac.cr/mod/assign/view.php?id=1768907).
-
 > [!ATTENTION]
 > Para iniciar a practicar este tema debe haber terminado de realizar la configuración del laboratorio 1. Todos los temas de aquí en adelante son acumulativos y requiere de que comprendan los temas anteriores. Ante cualquier duda, lo mejor es evacuar lo que no entienden lo antes posible 😁.
 
