@@ -22,14 +22,13 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 2 | [Entrada y sálida](03-Entrada_salida/README.md) |
 3-4 | [Programación orientada a objetos](04-OOP/README.md) |
 5 | [Estructuras de control](05-Control/README.md) |
-6-7 | [Arreglos](06-Arreglos/README.md) |
-7 | [Algoritmos](07-Algoritmos/README.md) |
-10 | Arquitectura |
-10 | Debugging |
-10 | Strings |
-11 | Recursividad |
-12-13 | Listas |
-14-15 | Árboles |
+6-8 | [Arreglos & algortimos](06-Arreglos/README.md) |
+10 | [Arquitectura](07-Arquitectura/README.md) |
+10 | [Debugging](08-Debugging/README.md) |
+10 | [Strings](09-Strings/README.md) |
+11 | [Recursividad](10-Recursividad/README.md) |
+12-13 | [Listas](11-Listas/README.md) |
+14-15 | [Árboles](12-Arboles/README.md) |
 
 ## Licencia
 
