@@ -1,15 +1,15 @@
 package pizza;
 
+import java.util.ArrayList;
 
 public class Pizzeria {
     private String name;
-    private int sillasDisponibles;
     private Mesa [] mesa;
-    private Topping [] toppings;
+    private ArrayList<Topping> toppings;
     private Orden [] ordenes;
 
-    public Pizzeria(){
-
+    public Pizzeria(String name){
+        this.name = name;
     }
 
     public Mesa ocupar(int cantidadPersonas){
