@@ -7,15 +7,14 @@ import java.util.ArrayList;
  */
 public class Franquicia {
     private Interfaz interfaz;
-    private ArrayList<Pizzeria> pizzerias;
+    private Pizzeria pizzeria;
 
     public Franquicia(){
         this.interfaz = new Interfaz();
-        this.pizzerias = new ArrayList<Pizzeria>();
+        this.pizzeria = new Pizzeria("FNAF LOCATION 1");
     }
 
     public void run(){
-        this.pizzerias.add(new Pizzeria("FNAF LOCATION 1"));
 
         //AQUI METEMOS OPCIONES DE COSAS
         boolean seguir = true;
@@ -34,11 +33,13 @@ public class Franquicia {
     }
 
     public void agregarMesa(){
-       
+        int cantidadSillas = this.interfaz.pedirEntero("Digite la cantidad de sillas: ", "Error! No es una cantidad de sillas validas");
+        this.pizzeria.agregarMesa(cantidadSillas);
     }
 
     public void agregarTopping(){
-
+        String texto = this.interfaz.pedirTexto("Digite el nombre del topping: ", "Error! No es un topping valido");
+        this.pizzeria.agregarTopping(texto);
     }
 
     public void agregarOrden(){

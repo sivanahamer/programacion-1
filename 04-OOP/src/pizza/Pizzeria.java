@@ -4,12 +4,23 @@ import java.util.ArrayList;
 
 public class Pizzeria {
     private String name;
-    private Mesa [] mesa;
+    private ArrayList<Mesa> mesas;
     private ArrayList<Topping> toppings;
-    private Orden [] ordenes;
+    private ArrayList<Orden> ordenes;
 
     public Pizzeria(String name){
         this.name = name;
+        this.mesas = new ArrayList<Mesa>();
+        this.toppings = new ArrayList<Topping>();
+        this.ordenes = new ArrayList<Orden>();
+    }
+
+    public void agregarMesa(int cantidadSillas){
+        mesas.add(new Mesa(cantidadSillas));
+    }
+
+    public void agregarTopping(String nombre){
+        toppings.add(new Topping(nombre));
     }
 
     public Mesa ocupar(int cantidadPersonas){
