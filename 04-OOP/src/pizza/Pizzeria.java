@@ -23,6 +23,21 @@ public class Pizzeria {
         toppings.add(new Topping(nombre));
     }
 
+    public String describir(){
+        String datos = "";
+        datos += "-----Mesas-----\n";
+        //Va por todas las mesitas
+        for (Mesa mesa: this.mesas){
+            datos += mesa.describir() + "\n";
+        }
+        datos += "\n-----Toppings-----\n";
+        for (Topping topping: this.toppings){
+            datos += topping.describir() + "\n";
+        }
+
+        return datos;
+    }
+
     public Mesa ocupar(int cantidadPersonas){
         return null;
     }

@@ -16,4 +16,8 @@ public class Mesa {
     public void desocupar(){
         this.sillasDisponibles = cantidadSillas;
     }
+
+    public String describir(){
+        return String.format("Cantidad sillas: %d - Cantidad disponibles: %d", this.cantidadSillas, this.sillasDisponibles);
+    }
 }

@@ -10,4 +10,8 @@ class Topping{
     public String getName(){
         return this.name;
     }
+
+    public String describir(){
+        return String.format("Topping: %s", this.name);
+    }
 }
