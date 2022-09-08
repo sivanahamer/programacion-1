@@ -1,0 +1,5 @@
+package pizza;
+
+enum EstadoPizza{
+
+}

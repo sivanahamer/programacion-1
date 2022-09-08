@@ -7,6 +7,10 @@ class Pizza{
     private TipoMasa masa;
     private EstadoPizza estado;
 
+    public Pizza(){
+        
+    }
+
     public void cocinar(){
 
     }
