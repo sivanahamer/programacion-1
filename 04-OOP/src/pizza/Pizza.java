@@ -15,9 +15,8 @@ class Pizza{
 
     }
 
-    //TODO
-    public void ver(){
-
+    public String describir(){
+        return "";
     }
 
     public void armar(){

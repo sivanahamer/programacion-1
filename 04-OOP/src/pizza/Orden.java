@@ -11,4 +11,8 @@ public class Orden {
     public double calcularTotal(){
         return 0.0;
     }
+
+    public String describir(){
+        return "";
+    }
 }

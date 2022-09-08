@@ -261,6 +261,12 @@ Como se puede ver, se puede entonces utilizar clases con otras clases para model
 
 [rectanglePointMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/Main.java ':include :type=code text')
 
+### Pizzeria 🍕
+
+![Pizzeria](./img/pizzeria.png)
+
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/pizza)
+
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.

@@ -1,7 +1,5 @@
 package pizza;
 
-import java.util.ArrayList;
-
 /**
  * Funciona como la clase controlador
  */

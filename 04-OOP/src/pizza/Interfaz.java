@@ -1,8 +1,10 @@
 package pizza;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * Esto es el view
+ */
 public class Interfaz {
 
     private Scanner scanner;

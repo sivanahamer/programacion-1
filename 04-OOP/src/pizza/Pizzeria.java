@@ -38,15 +38,7 @@ public class Pizzeria {
         return datos;
     }
 
-    public Mesa ocupar(int cantidadPersonas){
-        return null;
-    }
+    public void tomarOrden(){
 
-    public void desocupar(Mesa mesa){
-
-    }
-
-    public Orden tomarOrden(){
-        return null;
     }
 }
