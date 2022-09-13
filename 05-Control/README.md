@@ -337,7 +337,28 @@ class Pizzeria {
 
 ## Ejercicios
 
-Pendiente
+### Signo y par 🔢
+
+> ![SignNumber](./img/SignNumber.png)
+> ![ParImpar](./img/Par_Impar.png)
+
+[numero](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/05-Control/src/numero/Numero.java ':include :type=code text')
+
+[numeroMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/05-Control/src/numero/Main.java ':include :type=code text')
+
+### Promedio ➗
+
+> ![Promedio](./img/Promedio.png)
+
+[promedio](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/05-Control/src/promedio/Main.java ':include :type=code text')
+
+### Estaciones 🏂🏿🌱☀️🎃
+
+> ![Promedio](./img/Estaciones.png)
+
+[mes](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/05-Control/src/estaciones/Mes.java ':include :type=code text')
+
+[estacionesMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/05-Control/src/estaciones/Main.java ':include :type=code text')
 
 ## Material suplemental
 
