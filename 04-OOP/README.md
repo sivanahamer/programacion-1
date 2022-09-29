@@ -229,43 +229,33 @@ Como se puede ver, se puede entonces utilizar clases con otras clases para model
 
 ### Circle ⭕
 
-[circle](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/circle/Circle.java ':include :type=code text')
-
-[circleMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/circle/Main.java ':include :type=code text')
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/circle).
 
 ### Rectangle 🟥
 
-[rectangle](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/rectangle/Rectangle.java ':include :type=code text')
-
-[rectangleMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/rectangle/Main.java ':include :type=code text')
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/rectangle).
 
 ### Dice 🎲
 
-[dice](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/dice/Dice.java ':include :type=code text')
-
-[diceMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/dice/Main.java ':include :type=code text')
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/dice).
 
 ### AgregadorEnlaces 👆🏿
 
-[enlaces](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/enlaces/AgregadorEnlaces.java ':include :type=code text')
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/enlaces).
 
-[enlacesMain](https://github.com/sivanahamer/programacion-1/blob/main/04-OOP/src/enlaces/Main.java ':include :type=code text')
+### Point 🔴 & RectanglePoint 🟥🔴
 
-### Point 🔴
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/point).
 
-[point](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/Point.java ':include :type=code text')
+### Kinder Sorpresa 🥚🍫
 
-### RectanglePoint 🟥🔴
-
-[rectanglePoint](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/RectanglePoint.java ':include :type=code text')
-
-[rectanglePointMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/04-OOP/src/point/Main.java ':include :type=code text')
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/kinder).
 
 ### Pizzeria 🍕
 
 ![Pizzeria](./img/pizzeria.png)
 
-El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/pizza)
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/04-OOP/src/pizza).
 
 ## Material suplemental
 
