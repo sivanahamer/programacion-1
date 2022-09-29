@@ -8,7 +8,6 @@
 
 - [ADN](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales1/examen1-ADN.pdf)
 - [Busca 13](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales1/examen1-Busca%2013.pdf)
-- [Busca 13](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales1/examen1-Busca%2013.pdf)
 - [Cafe](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales1/examen1-Cafe.pdf)
 - [Cripto](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales1/examen1-Cripto.pdf)
 - [Dominos](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales1/examen1-Dominos.pdf)
