@@ -191,3 +191,4 @@ Se recomienda ver los siguientes materiales para repasar el contenido visto en c
 - Capítulo 7. Eck, David. Introduction to Programming Using Java. Octava edición. 2015.
 - Capítulo 7. Downey, Allen y Mayfield, Chris. Think Java: How to Think Like a Computer Scientist. Segunda edición. O’Reilly Media. 2019.
 - Capítulo 2. Morin, P. (2013). Open Data Structures (in Java).
+- Capítulos 10 y 11. C. T. Wu, An Introduction to Object-Oriented Programming with Java, 5th ed. Boston: McGraw Hill Higher Education, 2010.

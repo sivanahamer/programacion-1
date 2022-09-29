@@ -1,9 +1,23 @@
 # Architectura
 
-<!-- **Presentaciones:** -->
+**Presentaciones:**
 
-<!-- - [Arreglos](https://github.com/sivanahamer/programacion-1/blob/main/06-Arreglos/pres/10-Arrays.pdf) -->
+- [Architectura](https://github.com/sivanahamer/programacion-1/blob/main/07-Arqutectura/pres/11-Architectura.pdf)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/1XgIXQEzBu6ZWappVu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gif-this-hammer-under-construction-hammered-1XgIXQEzBu6ZWappVu">via GIPHY</a></p>
+PENDIENTE
 
-Work in progress...
+## Material suplemental
+
+Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.
+
+### Videos
+
+- [Introducción a arreglos](https://youtu.be/L06uGnF4IpY).
+- [Tutorial de arreglos](https://youtu.be/xzjZy-dHHLw).
+- [Arreglos en métodos](https://youtu.be/rzXoz2KOP7E).
+- [Arreglos de dos dimensiones](https://www.youtube.com/watch?v=L3-q2GxAqZA).
+
+### Lecturas
+
+- Capítulo 0. C. T. Wu, An Introduction to Object-Oriented Programming with Java, 5th ed. Boston: McGraw Hill Higher Education, 2010.
+- Capítulo 2.  Oracle, [The structure of the java virtual machine.](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html)
