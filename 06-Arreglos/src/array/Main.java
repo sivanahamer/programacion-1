@@ -10,5 +10,7 @@ class Main{
         int maximo = array.obtenerMaximo();
         array.imprimir();
         System.out.println(maximo);
+        array.sort();
+        array.imprimir();
     }
 }

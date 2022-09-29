@@ -1,7 +1,6 @@
 package src.array;
 
 import pizza.*;
-import java.lang.Math;
 
 /**
  * Esto NO es MVC
@@ -69,6 +68,30 @@ public class Array {
             }
         }
         System.out.println("}");
+    }
+
+    /**
+     * Swaps dos indices de un arreglo
+     * @param i Un indice
+     * @param j Otro indice
+     */
+    public void swap(int i, int j){
+        int temp = this.valores[i];
+        this.valores[i] = this.valores[j];
+        this.valores[j] = temp;
+    }
+
+    /***
+     * Bubble sort the array
+     */
+    public void sort(){
+        for (int i = 1; i < this.valores.length; i++){
+            for (int  j = 0; j < this.valores.length; j++){
+                if (this.valores [i - 1] > this.valores[i]){
+                    swap(i - 1, i);
+                }
+            }
+        }
     }
 
 }

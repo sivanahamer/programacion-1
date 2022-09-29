@@ -47,4 +47,5 @@ public class Arreglo {
             interfaz.imprimir(texto);
         }
     }
+
 }

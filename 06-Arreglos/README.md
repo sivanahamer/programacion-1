@@ -172,7 +172,27 @@ Para las estructuras de datos, existen algoritmos clásicos. Particularmente, da
 
 ## Ejercicios
 
-Pendiente
+### Arreglos
+
+[array](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/06-Arreglos/src/array/Numero.java ':include :type=code text')
+
+[arrayMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/06-Arreglos/src/array/Main.java ':include :type=code text')
+
+### Matriz
+
+[matrizMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/06-Arreglos/src/matriz/Main.java ':include :type=code text')
+
+### Starducks
+
+[arreglo](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/06-Arreglos/src/starducks/Arreglo.java ':include :type=code text')
+
+[matriz](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/06-Arreglos/src/starducks/Matriz.java ':include :type=code text')
+
+[starducks](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/06-Arreglos/src/starducks/Starducks.java ':include :type=code text')
+
+
+[main](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/06-Arreglos/src/starducks/Main.java ':include :type=code text')
+
 
 ## Material suplemental
 
