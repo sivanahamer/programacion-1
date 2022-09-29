@@ -4,18 +4,11 @@
 
 - [Architectura](https://github.com/sivanahamer/programacion-1/blob/main/07-Arqutectura/pres/11-Architectura.pdf)
 
-PENDIENTE
+Las computadoras utilizan ciertos componentes como parte de su architectura. Estos incluyen los dispositivos de almacenamiento, de entrada y de sálida. Además, Java en si tiene un architectura que permite que podamos utilizar el lengujae.
 
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.
-
-### Videos
-
-- [Introducción a arreglos](https://youtu.be/L06uGnF4IpY).
-- [Tutorial de arreglos](https://youtu.be/xzjZy-dHHLw).
-- [Arreglos en métodos](https://youtu.be/rzXoz2KOP7E).
-- [Arreglos de dos dimensiones](https://www.youtube.com/watch?v=L3-q2GxAqZA).
 
 ### Lecturas
 
