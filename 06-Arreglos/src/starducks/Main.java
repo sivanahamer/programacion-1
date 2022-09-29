@@ -5,5 +5,6 @@ public class Main {
         Starducks matrizStarducks = new Starducks();
         matrizStarducks.obtenerInformacion();
         matrizStarducks.imprimirInformacion();
+        matrizStarducks.procesarInformacion();
     }
 }

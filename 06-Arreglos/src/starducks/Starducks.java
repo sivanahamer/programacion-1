@@ -23,7 +23,6 @@ public class Starducks{
         //Crea las matrices
         this.ventas = new Matriz("ventas", locales, trimestres);
         this.costos = new Matriz("costos", locales, trimestres);
-        this.utilidades = new Matriz("utilidades", locales, trimestres);
     }
 
 
@@ -56,6 +55,7 @@ public class Starducks{
     public void obtenerInformacion(){
         this.ventas.obtenerValores();
         this.costos.obtenerValores();
+        this.utilidades = this.ventas.restar("utilidades", costos);
     }
 
     /**
@@ -64,7 +64,14 @@ public class Starducks{
     public void imprimirInformacion(){
         this.ventas.imprimir();
         this.costos.imprimir();
+        this.utilidades.imprimir();
     }
 
-
+    /**
+     * Procesa la informacion que se tiene de las utilidades
+     */
+    public void procesarInformacion(){
+        Arreglo sumaTrimestres = this.utilidades.sumarFila("SUMA TRIMESTRES");
+        sumaTrimestres.imprimir();
+    }
 }
