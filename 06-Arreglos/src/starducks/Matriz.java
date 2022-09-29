@@ -115,7 +115,7 @@ public class Matriz {
      * @return Una matriz donde se le sumo las filas
      */
     public Arreglo sumarFila(String nombre){
-        //Crear la matriz donde se van a guardar los resultados
+        //Crear el arreglo donde se van a guardar los resultados
         int [] resultados = new int [this.cantidadFilas];
 
         for (int i = 0; i < cantidadFilas; i ++){
@@ -125,5 +125,37 @@ public class Matriz {
             }
         }
         return new Arreglo(nombre, nombresFilas, resultados);
+    }
+
+    /**
+     * Suma las filas de una matriz
+     * @param nombre El nombre de la nueva matriz
+     * @return Una matriz donde se le sumo las filas
+     */
+    public Arreglo sumarColumnas(String nombre){
+        //Crear el arreglo donde se van a guardar los resultados
+        int [] resultados = new int [this.cantidadColumnas];
+
+        for (int j = 0; j < cantidadColumnas; j++){
+            resultados[j] = 0;
+            for (int i = 0; i < cantidadFilas; i ++){
+                resultados[j] += this.valores[i][j];
+            }
+        }
+        return new Arreglo(nombre, nombresColumnas, resultados);
+    }
+
+    public Arreglo sumarTodo(String nombre){
+        //Crear el arreglo donde se van a guardar los resultados
+        int [] resultados = new int [1];
+
+        resultados[0] = 0;
+
+        for (int i = 0; i < cantidadFilas; i ++){
+            for (int j = 0; j < cantidadColumnas; j++){
+                resultados[0] += this.valores[i][j];
+            }
+        }
+        return new Arreglo(nombre, new String [] {"TODO"}, resultados);
     }
 }

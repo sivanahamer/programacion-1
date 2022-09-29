@@ -71,7 +71,12 @@ public class Starducks{
      * Procesa la informacion que se tiene de las utilidades
      */
     public void procesarInformacion(){
-        Arreglo sumaTrimestres = this.utilidades.sumarFila("SUMA TRIMESTRES");
+        Arreglo sumaLocales = this.utilidades.sumarFila("SUMA LOCALES");
+        sumaLocales.imprimir();
+        Arreglo sumaTrimestres = this.utilidades.sumarColumnas("SUMA TRIMESTRES");
         sumaTrimestres.imprimir();
+        Arreglo sumaTodo = this.utilidades.sumarTodo("SUMA TODO");
+        sumaTodo.imprimir();
     }
+
 }
