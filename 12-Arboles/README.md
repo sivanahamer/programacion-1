@@ -1,12 +1,10 @@
 # Árboles
 
-<!-- **Presentaciones:** -->
+**Presentaciones:**
 
-<!-- - [Arreglos](https://github.com/sivanahamer/programacion-1/blob/main/06-Arreglos/pres/10-Arrays.pdf) -->
+- [Árboles](https://github.com/sivanahamer/programacion-1/blob/main/12-Arboles/pres/16-Arboles.pdf)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/1XgIXQEzBu6ZWappVu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gif-this-hammer-under-construction-hammered-1XgIXQEzBu6ZWappVu">via GIPHY</a></p>
-
-Work in progress...
+Los árboles son otra estructura de datos que no pide datos secuencialmente. Difieren en cómo se estructuran los datos comparado a una lista, ya que existen tipos de árboles que guardan datos ordenadamente. Existen muchos tipos de árboles, cada uno con utilidades particulares.
 
 ## Material suplemental
 

@@ -2,10 +2,9 @@
 
 <!-- **Presentaciones:** -->
 
-<!-- - [Arreglos](https://github.com/sivanahamer/programacion-1/blob/main/06-Arreglos/pres/10-Arrays.pdf) -->
+- [Recursividad](https://github.com/sivanahamer/programacion-1/blob/main/10-Recursividad/pres/14-Recursividad.pdf)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/1XgIXQEzBu6ZWappVu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gif-this-hammer-under-construction-hammered-1XgIXQEzBu6ZWappVu">via GIPHY</a></p>
-Work in progress...
+Nosotros hemos hecho ciclos utilizando `for`, `while` o variaciones de estas operaciones. Hay otra manera que se puede hacer ciclos por medio de la **recursividad** que consiste en una función llamándose a sí mismo. Esto se vuelve una herramienta más que se puede usar al resolver problemas y será particularmente importante entender cuando se utilicen estructuras de datos recursivas.
 
 ## Material suplemental
 
