@@ -1,9 +1,13 @@
 # Strings
 
-<!-- **Presentaciones:** -->
+**Presentaciones:**
 
-<!-- - [Arreglos](https://github.com/sivanahamer/programacion-1/blob/main/06-Arreglos/pres/10-Arrays.pdf) -->
+- [Strings](https://github.com/sivanahamer/programacion-1/blob/main/09-Strings/pres/13-Strings.pdf)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/1XgIXQEzBu6ZWappVu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gif-this-hammer-under-construction-hammered-1XgIXQEzBu6ZWappVu">via GIPHY</a></p>
+Nosotros hemos utilizado Strings a través de todo el semestre. Ahora, vamos a ver en detalle cómo es que funcionan estas cadenas de caracteres y métodos particulares que se pueden realizar.
 
-Work in progress...
+## Ejercicios
+
+[hilera](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/09-Strings/src/string/Hilera.java ':include :type=code text')
+
+[hileraMain](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/09-Strings/src/string/Main.java ':include :type=code text')
