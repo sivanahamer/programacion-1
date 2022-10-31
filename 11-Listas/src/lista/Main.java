@@ -1,5 +1,10 @@
 package lista;
 
+/**
+ * Main de la lista simplemente enlazada
+ * @author Sivana Hamer
+ * @version 10-31-2022
+ */
 public class Main{
     public static void main(String [] args){
         //Crea los nodos a pata
@@ -33,6 +38,9 @@ public class Main{
         l3.concatenar(10);
         l3.concatenar(100);
         l3.imprimir();
+
+        l1.insertar(2, 12);
+        l1.imprimir();
 
     }
 }
