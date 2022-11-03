@@ -8,7 +8,7 @@ Existen otras estructuras de datos que no son arreglos. Una de ellas es una list
 
 ## Ejercicios
 
-### Listas ➡️
+### Listas ⏹️➡️
 
 [mainListas](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/11-Listas/src/lista/Main.java ':include :type=code text')
 
@@ -16,6 +16,14 @@ Existen otras estructuras de datos que no son arreglos. Una de ellas es una list
 
 [lista](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/11-Listas/src/lista/Lista.java ':include :type=code text')
 
+### Lista genérica 🎆
+
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/11-Listas/src/generic).
+
+### Lista doblemente enlazada ⬅️⏹️➡️
+
+Pendiente...
+<!-- El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/11-Listas/src/generic). -->
 
 ## Material suplemental
 
