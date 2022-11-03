@@ -6,6 +6,17 @@
 
 Existen otras estructuras de datos que no son arreglos. Una de ellas es una lista, la cual pide datos que no se encuentran secuencialmente en memoria. Esto tiene ventajas y desventajas comparado a arreglos.
 
+## Ejercicios
+
+### Listas ➡️
+
+[mainListas](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/11-Listas/src/lista/Main.java ':include :type=code text')
+
+[nodo](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/11-Listas/src/lista/Nodo.java ':include :type=code text')
+
+[lista](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/11-Listas/src/lista/Lista.java ':include :type=code text')
+
+
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.
