@@ -55,6 +55,10 @@ public class Lista {
         System.out.println();
     }
 
+    public boolean isEmpty(){
+        return this.head == null;
+    }
+
     /**
      * Concatena un nuevo dato al final de la lista
      * @param dato El dato
@@ -77,19 +81,32 @@ public class Lista {
     }
 
     public void insertar(int indice, int dato){
-        //TODO: Edge cases de insertar
-        Nodo current = this.head;
+        //Caso de que se inserta en la cabeza
+        if (indice == 0){
+            Nodo headViejo = this.head;
+            this.head = new Nodo(dato, headViejo);
+            // this.head = new Nodo(dato, this.head);
+        //Caso que sea en el resto de la lista
+        }else{
+            Nodo current = this.head;
 
-        int contador = 0;
-        while (contador <  indice){
-            current = current.getNext();
-            contador++;
+            // Contador para encontrar el indice
+            int contador = 0;
+            while (contador < indice - 1 && current != null){
+                current = current.getNext();
+                contador++;
+            }
+
+            //Revisar si no nos hemos salido de la lista
+            if (current != null){
+                // Swaps de posiciones
+                Nodo siguienteSiguiente = current.getNext();
+                Nodo siguiente = new Nodo(dato, siguienteSiguiente);
+                current.setNext(siguiente);
+
+                // current.setNext(new Nodo(dato, current.getNext()));
+            }
         }
-        Nodo siguienteSiguiente = current.getNext();
-        Nodo siguiente = new Nodo(dato, siguienteSiguiente);
-        current.setNext(siguiente);
-
-        // current.setNext(new Nodo(dato, current.getNext()));
     }
 
 }

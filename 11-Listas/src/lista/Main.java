@@ -39,8 +39,16 @@ public class Main{
         l3.concatenar(100);
         l3.imprimir();
 
+        l1.imprimir();
         l1.insertar(2, 12);
         l1.imprimir();
+        l1.insertar(0, 29);
+        l1.imprimir();
+        l1.insertar(6, 30);
+        l1.imprimir();
+        l1.insertar(8, 31);
+        l1.imprimir();
+
 
     }
 }
