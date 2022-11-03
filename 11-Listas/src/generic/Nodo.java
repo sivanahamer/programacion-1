@@ -1,21 +1,21 @@
-package lista;
+package generic;
 
 /**
- * Nodo para una lista simplemente enlazada
+ * Nodo para una lista simplemente enlazada generico
  * @author Sivana Hamer
  * @version 10-31-2022
  */
-public class Nodo {
+public class Nodo<T> {
     //Atributos
-    private int dato;
-    private Nodo next;
+    private T dato;
+    private Nodo<T> next;
 
     //Constructores
     /**
      * Constructor de datos
      * @param dato El dato del nodo
      */
-    public Nodo(int dato){
+    public Nodo(T dato){
         this.dato = dato;
     }
 
@@ -24,24 +24,18 @@ public class Nodo {
      * @param dato El dato del nodo
      * @param next El siguiente nodo
      */
-    public Nodo(int dato, Nodo next){
+    public Nodo(T dato, Nodo<T> next){
         this.dato = dato;
         this.next = next;
     }
 
     //Metodos
-    /**
-     * Imprime el nodo
-     */
-    public void imprimir(){
-        System.out.printf("%d -> ", this.dato);
-    }
 
     /**
      * Obtiene el siguiente nodo
      * @return El siguiente nodo
      */
-    public Nodo getNext(){
+    public Nodo<T> getNext(){
         return this.next;
     }
 
@@ -49,7 +43,7 @@ public class Nodo {
      * Guarda el siguiente nodo
      * @param next El siguiente nodo
      */
-    public void setNext(Nodo next){
+    public void setNext(Nodo<T> next){
         this.next = next;
     }
 
@@ -57,7 +51,7 @@ public class Nodo {
      * Obtiene el dato del nodo
      * @return El dato del nodo
      */
-    public int getDato(){
+    public T getDato(){
         return this.dato;
     }
 }

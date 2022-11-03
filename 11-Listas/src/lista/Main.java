@@ -32,23 +32,31 @@ public class Main{
         l3.imprimir();
 
         //Concatenamos en una lista
-        l2.concatenar(5);
-        l2.concatenar(8);
+        l2.concatenar(5);//Caso normal
+        l2.concatenar(8);//Caso normal
         l2.imprimir();
-        l3.concatenar(10);
-        l3.concatenar(100);
+        l3.concatenar(10);//Caso vacio
+        l3.concatenar(100);//Caso normal
         l3.imprimir();
 
         l1.imprimir();
-        l1.insertar(2, 12);
+        l1.insertar(2, 12); //Caso normal
         l1.imprimir();
-        l1.insertar(0, 29);
+        l1.insertar(0, 29); //Caso cabeza
         l1.imprimir();
-        l1.insertar(6, 30);
+        l1.insertar(6, 30);//Caso final
         l1.imprimir();
-        l1.insertar(8, 31);
+        l1.insertar(8, 31);//Caso fuera de indice
         l1.imprimir();
 
 
+        l1.remover(12);//Caso normal
+        l1.imprimir();
+        l1.remover(30);//Caso final
+        l1.imprimir();
+        l1.remover(5);//Caso no esta
+        l1.imprimir();
+        l1.remover(29);//Caso cabeza
+        l1.imprimir();
     }
 }
