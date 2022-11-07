@@ -22,8 +22,7 @@ El código sale en [la siguiente carpeta](https://github.com/sivanahamer/program
 
 ### Lista doblemente enlazada ⬅️⏹️➡️
 
-Pendiente...
-<!-- El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/11-Listas/src/generic). -->
+El código sale en [la siguiente carpeta](https://github.com/sivanahamer/programacion-1/tree/main/11-Listas/src/doubly).
 
 ## Material suplemental
 
