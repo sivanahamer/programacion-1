@@ -6,6 +6,16 @@
 
 Los árboles son otra estructura de datos que no pide datos secuencialmente. Difieren en cómo se estructuran los datos comparado a una lista, ya que existen tipos de árboles que guardan datos ordenadamente. Existen muchos tipos de árboles, cada uno con utilidades particulares.
 
+## Ejercicios
+
+### Árbol binario 🌳 2️⃣
+
+[mainArbol](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/12-Arboles/src/binary/Main.java ':include :type=code text')
+
+[arbol](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/12-Arboles/src/binary/BinaryTree.java ':include :type=code text')
+
+[nodo](https://raw.githubusercontent.com/sivanahamer/programacion-1/main/12-Arboles/src/binary/Node.java ':include :type=code text')
+
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.

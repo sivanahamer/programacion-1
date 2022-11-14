@@ -19,4 +19,9 @@
 
 ## Examenes parciales 2
 
-Pendiente
+- [Bases de datos.](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales2/examen2-BasesDatos.pdf)
+- [Fondo.](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales2/examen2-Fondo.pdf)
+- [Listas.](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales2/examen2-Listas.pdf)
+- [Mancha par nombre.](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales2/examen2-Mancha%20par%20%20nombre.pdf)
+- [Palindromo y equitopo.](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales2/examen2-Palindromo%20y%20equitopo.pdf)
+- [Personas.](https://github.com/sivanahamer/programacion-1/blob/main/00-Examenes/parciales2/examen2-Personas.pdf)
