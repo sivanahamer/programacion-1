@@ -20,9 +20,10 @@ public class Main{
         bTree.insertar(bTree.getRaiz(), 7);
         System.out.println("");
 
+        //Borrar
         bTree.imprimirPreorden();
         System.out.println("");
-        bTree.remover(3);
+        bTree.remover(10);
         bTree.imprimirPreorden();
         System.out.println("");
     }

@@ -144,15 +144,16 @@ public class BinarySearchTree {
     /**
      * Borra una hoja dentro de un arbol
      * @param nodoABorrar El nodo que se quiere borrar
-     * @param padre La referencia del padre, si es que tiene
      */
-    private void borrarHoja(Node nodoABorrar, Node padre){
+    private void borrarHoja(Node nodoABorrar){
         //Borramos la raiz
         if (this.raiz == nodoABorrar){
             this.raiz = null;
         //Caso de borrar un nodo normal
         }else{
-            //Rrevisa si quiere borrar un hijo izquierdo
+            Node padre = obtenerPadre(nodoABorrar.getDato());
+
+            //Revisa si quiere borrar un hijo izquierdo
             if (padre.getHijoIzquierdo() == nodoABorrar){
                 padre.setHijoIzquierdo(null);
             }else{
@@ -165,19 +166,49 @@ public class BinarySearchTree {
     /**
      * Borra un nodo con un hijo
      * @param nodoABorrar El nodo que se quiere borrar
-     * @param padre La referencia del padre, si es que tiene
      */
-    private void borrarUnHijo(Node nodoABorrar, Node padre){
+    private void borrarUnHijo(Node nodoABorrar){
+        //Guardamos el hijo en una referencia
+        Node hijo = null;
+        if (nodoABorrar.getHijoIzquierdo() != null) 
+            hijo = nodoABorrar.getHijoIzquierdo();
+        else
+            hijo = nodoABorrar.getHijoDerecho();
+        
+        //Le caemos encima al dato actual con el del hijo 
+        nodoABorrar.setDato(hijo.getDato());
+        //Hacemos lo mismo con las referencias
+        nodoABorrar.setHijoIzquierdo(hijo.getHijoIzquierdo());
+        nodoABorrar.setHijoDerecho(hijo.getHijoDerecho());
+    }
 
+    /**
+     * Obtiene el nodo más pequeño en un arbol
+     * @param actual El nodo actual del arbol
+     * @return El nodo más pequeño
+     */
+    private Node obtenerMasPequenno(Node actual){
+        Node masPequenno = actual;
+        //Iteramos el hijo izquierdo hasta que el siguiente sea nulo
+        while (masPequenno.getHijoIzquierdo() != null){
+            masPequenno = masPequenno.getHijoIzquierdo();
+        }
+        return masPequenno;
     }
 
     /**
      * Borra un nodo con dos hijos
      * @param nodoABorrar El nodo que se quiere borrar
-     * @param padre La referencia del padre, si es que tiene
      */
-    private void borrarDosHijos(Node nodoABorrar, Node padre){
-
+    private void borrarDosHijos(Node nodoABorrar){
+        //Obtiene el nodo con el que vamos a hacer swap
+        Node masPequenno = this.obtenerMasPequenno(nodoABorrar.getHijoDerecho());
+        //Guardamos el dato, para no perderlo
+        int datoMasPequenno = masPequenno.getDato();
+        //Borrar el dato del arbol
+        this.remover(datoMasPequenno);
+        //Caerle encima al dato
+        nodoABorrar.setDato(datoMasPequenno);
     }
 
     /**
@@ -232,15 +263,13 @@ public class BinarySearchTree {
     public void remover(int dato){
         Node nodoABorrar = buscar(this.raiz, dato);
         if (nodoABorrar != null){ 
-            Node padre = obtenerPadre(dato);
-
             switch (nodoABorrar.contarHijos()) {
                 //Borrar hoja
-                case 0: this.borrarHoja(nodoABorrar, padre); break;
+                case 0: this.borrarHoja(nodoABorrar); break;
                 //Borrar nodo con un hijo
-                case 1: this.borrarUnHijo(nodoABorrar, padre); break;
+                case 1: this.borrarUnHijo(nodoABorrar); break;
                 //Borrar nodo con varios hijos
-                case 2: this.borrarDosHijos(nodoABorrar, padre); break;
+                case 2: this.borrarDosHijos(nodoABorrar); break;
             }
         }
     }
