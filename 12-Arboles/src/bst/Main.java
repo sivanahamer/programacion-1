@@ -19,5 +19,11 @@ public class Main{
         bTree.buscar(bTree.getRaiz(), 3).imprimir();
         bTree.insertar(bTree.getRaiz(), 7);
         System.out.println("");
+
+        bTree.imprimirPreorden();
+        System.out.println("");
+        bTree.remover(3);
+        bTree.imprimirPreorden();
+        System.out.println("");
     }
 }
